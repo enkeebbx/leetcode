@@ -1,4 +1,4 @@
-package com.oliver.leetcode.dp;
+package com.oliver.leetcode.dp.houserobber;
 
 import org.junit.jupiter.api.Test;
 
